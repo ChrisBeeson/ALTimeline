@@ -1,4 +1,4 @@
-# AVTimeline
+Please explain technically how the attached zip works.
 
 **AVTimeline** is a modular Objective-C framework and demo app for rendering interactive, zoomable timelines with precise timecode support. Designed originally for audio/visual data workflows, the system is highly extensible and ideal for video editors, broadcast tools, or any app requiring timeline visualization.
 
